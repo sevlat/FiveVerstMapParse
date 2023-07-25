@@ -1,5 +1,15 @@
 # FiveVerstMapParse
-Sample python notebook for parsing 5verst map html
+
+## About
+Sample python notebook for parsing 5verst map html. (5verst is a Russian successor of Parkrun)
+
+## Подробнее
+Это была попытка добавить старты "5 Верст" на Яндекс.Карты.
+
+* Я отправил в Яндекс.Карты предложение добавить старты "5 Верст" (Ticket#23071505492780174)
+* В ответ мне предложили сообщить им координаты всех 100+ стартов.
+* В результате родилась данная программа. Она регуляркой достает из [Пяти Верст](https://5verst.ru/events/) инфу о стартах и сохраняет их в JSON
+* Через неделю специалисты Я.Карт сообщили, что не смогут отметить точки старта "5 верст" из-за специфики мероприятия.
 
 ## Warning! Bug in Github Jupiter Viewer!
 
