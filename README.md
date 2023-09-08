@@ -11,6 +11,12 @@ Sample python notebook for parsing 5verst map html. (5verst is a Russian success
 * В результате родилась данная программа. Она регуляркой достает из [Пяти Верст](https://5verst.ru/events/) инфу о стартах и сохраняет их в JSON
 * Через неделю специалисты Я.Карт сообщили, что не смогут отметить точки старта "5 верст" из-за специфики мероприятия.
 
+## Облом!
+08.09.2023
+
+Пять Верст поменяли формат свой [web-страницы](https://5verst.ru/events/). Теперь там нет координат стартов, или они как-то запрятаны.
+Скрипт перестал работать.
+
 ## Warning! Bug in Github Jupiter Viewer!
 
 Complex string in Python renders incorrectly in Jupiter notebook preview.
